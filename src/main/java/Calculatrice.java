@@ -1,0 +1,5 @@
+public class Calculatrice {
+    public Calculatrice() {
+        System.out.println("Bienvenue");
+    }
+}
